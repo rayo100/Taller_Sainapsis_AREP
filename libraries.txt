@@ -1,0 +1,6 @@
+langchain
+openai==0.27.8
+tiktoken
+requests
+pydantic
+pinecone-client
